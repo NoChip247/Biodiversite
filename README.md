@@ -1,5 +1,3 @@
-# Projet Biodiversité
-
 ## Problématique
 Y a-t-il un lien entre l’augmentation des facteurs environnementaux et le déclin de la biodiversité ?
 
