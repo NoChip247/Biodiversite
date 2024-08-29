@@ -17,5 +17,22 @@ Utiliser un dataset public contenant des données environnementales, afin de voi
 - Dataviz :
     - Google Looker Studio
     - Microsoft Power BI
+
+## Présentation
  
-![image1]()
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0001.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0002.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0003.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0005.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0006.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0007.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0008.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0010.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0011.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0012.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0013.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0014.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0015.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0016.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0017.jpg)
+![Oups... l'image ne s'est pas chargée](assets/images/Biodiversity%20slides_15.03.2024_pages-to-jpg-0019.jpg)
