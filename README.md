@@ -17,7 +17,7 @@ Utiliser un dataset public contenant des données environnementales, afin de voi
     - Data warehouse : Google BigQuery
     - Langages :
         - SQL : cleaning, join, enrichissement
-        - Python : cleaning, test statistiques
+        - Python : cleaning, test statistique
 - Dataviz :
     - Google Looker Studio
     - Microsoft Power BI
