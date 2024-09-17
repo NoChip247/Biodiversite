@@ -7,7 +7,11 @@ Y a-t-il un lien entre l’augmentation des facteurs environnementaux et le déc
 Utiliser un dataset public contenant des données environnementales, afin de voir si il y a des corrélations entre les facteurs environnementaux (pollution, déforestation, catastrophes naturelles) et le déclin de la biodiversité.
 
 ## Composition du projet
-- Dataset : ONU (Kaggle)
+- Dataset :
+    - https://www.kaggle.com/datasets/elmoallistair/living-planet-index
+    - https://www.kaggle.com/datasets/sazidthe1/global-environmental-indicators
+    - https://www.kaggle.com/datasets/manisharanwaa/biodiversity
+    - https://www.kaggle.com/datasets/niladrimallik/city-country-and-continent-dataset
 - Team : 3 personnes
 - Teck stack :
     - Data warehouse : Google BigQuery
