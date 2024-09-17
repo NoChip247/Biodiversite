@@ -1,7 +1,6 @@
 # Cleaning + Join
 
 - Sub query : Cleaning des noms de pays qui vont servir de primary key
-
 - Query finale : on fait un `FULL OUTER JOIN` avec la table de référence `country_continent` pour avoir les noms de continents en face de chaque pays. `WHERE region IS NULL` permet de voir les pays qui n'ont pas de continent attribué, et donc les pays qui n'ont pas été nettoyés par la query de cleaning. On peut rajouter à la query de cleaning les cas particuliers si besoin.
 
 ```sql
@@ -57,17 +56,22 @@ ON fo.country_clean=cc.country
 
 # Transformer la structure de la table
 
-⚫ À l’origine, la data base Forest était sous la forme :
-`region, Forest_Area__1990, Forest_Area__2000, Forest_Area__2010, Forest_Area__2015, Forest_Area__2020
-Africa, 549244.0, 529578.0, 507004.0, 495342.0, 483846.0`
+- À l’origine, la data base Forest était sous la forme :
 
-⚫ En utilisant Python, on utilise la fonction .melt() de Pandas pour réordonner l’architecture du dataframe sous la forme suivante :
-`region, year, area
-Africa, 1990, 549244.0
-Africa, 2000, 529578.0
-Africa, 2010, 507004.0
-Africa, 2015, 495342.0
-Africa, 2020, 483846.0`
+| region | Forest_Area__1990 | Forest_Area__2000 | Forest_Area__2010 | Forest_Area__2015 | Forest_Area__2020 |
+|---|---|---|---|---|---|
+| Africa | 549244.0 | 529578.0 | 507004.0 | 495342.0 | 483846.0 |
+
+
+- En utilisant Python, on utilise la fonction .melt() de Pandas pour réordonner l’architecture du dataframe sous la forme suivante :
+
+| region | year | area |
+|---|---|---|
+|Africa | 1990 | 549244.0 |
+|Africa | 2000 | 529578.0 |
+|Africa | 2010 | 507004.0 |
+|Africa | 2015 | 495342.0 |
+|Africa | 2020 | 483846.0 |
 
 ```python
 df_melt = df.melt(id_vars='region', var_name='year', value_name='area')
