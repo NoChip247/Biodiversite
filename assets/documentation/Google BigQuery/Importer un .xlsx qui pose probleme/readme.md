@@ -4,7 +4,7 @@
 2. Ouvrir le .xlsx avec Google Sheet
 3. Enregistrer une copie du .xlsx au format Google Sheet
 
-![Capture d’écran 2024-03-05 à 11.38.46.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6324b2c7-c874-4731-aaf6-cad85d31156a/0f5cab84-8ae2-49a4-b5c3-adef64f6ec01/Capture_decran_2024-03-05_a_11.38.46.png)
+![](https://github.com/NoChip247/Biodiversite/blob/1fc9cc7775960f6b5fed0c695546057bda5835d2/assets/documentation/Google%20BigQuery/Importer%20un%20.xlsx%20qui%20pose%20probleme/ixeles.png)
 
 1. Dans BigQuery, lors de la création d’une nouvelle table, indiquer : 
     1. Créer une table à partir de : Drive
