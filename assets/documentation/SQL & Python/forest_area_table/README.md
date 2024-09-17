@@ -189,7 +189,7 @@ La table lpi_x_forest créée précédemment, est importée dans Python pour fai
 df.corr()
 ```
 
-![Capture d’écran 2024-03-13 à 11.01.23.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6324b2c7-c874-4731-aaf6-cad85d31156a/86595be4-7e29-464e-8e7c-e674f19ad2de/Capture_decran_2024-03-13_a_11.01.23.png)
+![](https://github.com/NoChip247/Biodiversite/blob/889602364a6dbc7e46f6e8e6c8f674859d0f4622/assets/documentation/SQL%20%26%20Python/forest_area_table/1.png)
 
 ```sql
 import seaborn as sns
@@ -197,7 +197,7 @@ import seaborn as sns
 sns.heatmap(df.corr(), annot=True)
 ```
 
-![Capture d’écran 2024-03-13 à 11.02.44.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6324b2c7-c874-4731-aaf6-cad85d31156a/a47bf651-d9b3-4ccc-862c-d79fe9814fcb/Capture_decran_2024-03-13_a_11.02.44.png)
+![](https://github.com/NoChip247/Biodiversite/blob/889602364a6dbc7e46f6e8e6c8f674859d0f4622/assets/documentation/SQL%20%26%20Python/forest_area_table/2.png)
 
 *0 = pas/peu de correlation*
 
